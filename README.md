@@ -13,10 +13,10 @@
 
 |                               机场名称                                |                                                 套餐截图                                                 |
 |:---------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-| [Texon's LAB](https://texon.io/portal/aff.php?aff=291)</br>（菜市场） | ![Texon's LAB](https://raw.githubusercontent.com/Apocalypse-41/QuantumultX/main/Images/Texon'%20LAB.png) |
-|        [AmyTelecom](https://www.amysecure.com)</br>（按摩院）         |  ![AmyTelecom](https://raw.githubusercontent.com/Apocalypse-41/QuantumultX/main/Images/AmyTelecom.png)   |
+| [Texon's LAB](https://texon.io/portal/aff.php?aff=291)</br>（菜市场） | ![Texon's LAB](https://github.com/Apocalypse-41/QuantumultX/blob/main/Images/Texon'%20LAB.png) |
+|        [AmyTelecom](https://www.amysecure.com)</br>（按摩院）         |  ![AmyTelecom](https://github.com/Apocalypse-41/QuantumultX/blob/main/Images/AmyTelecom.png)   |
 |             [FlowerCloud](https://flower.yt)</br>（花云）             |  ![FlowerCloud](https://github.com/Apocalypse-41/QuantumultX/blob/main/Images/FlowerCloud.png)  |
-|   [跨越长城](https://panel.gfwnetwork.com/#/register?code=1EWzhmfM)   | ![CrossGFW](https://raw.githubusercontent.com/Apocalypse-41/QuantumultX/main/Images/CrossGFW.png)                                                                                                         |
+|   [跨越长城](https://panel.gfwnetwork.com/#/register?code=1EWzhmfM)   | ![CrossGFW](https://github.com/Apocalypse-41/QuantumultX/blob/main/Images/CrossGFW.png)                                                                                                         |
 
 ## 2. 分流
 ### GEOIP
