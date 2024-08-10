@@ -1,0 +1,3 @@
+# Foodie/轻图/B612相机/甜盐相机
+hostname = purchase-*-api.*.com, user-kaji-api.b612kaji.com
+4个相机 = type=http-response,pattern=^https?:\/\/(purchase-.*-api|user-kaji-api)\.(yiruikecorp|b612kaji|tianyancam)\.com\/v\d\/purchase\/subscription\/subscriber\/status,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/chxm1023/Rewrite/main/4gexj.js
